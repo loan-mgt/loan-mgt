@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Loan</h1>
-<h3 align="center">A passionate developer and FPV pilote from France</h3>
+<h3 align="center"> Passionate about coding and flying, I'm a French developer and FPV pilot who loves exploring new tech</h3>
 
 <div align="center"> 
 <a href="https://fr.linkedin.com/in/loan-maeght"  target="_blank" ><img   src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"></a>
