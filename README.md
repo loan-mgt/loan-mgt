@@ -1,6 +1,6 @@
 
 <div align="center"> 
-<img src="https://user-images.githubusercontent.com/37497007/227801719-0b8c0fa0-e1cd-4557-8997-1a7070592602.svg" />
+<img src="https://github.com/Qypol342/Qypol342/assets/37497007/5c502fdb-d0f7-40fb-9db9-c9e06c67fd49" />
 
 
 
