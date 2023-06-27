@@ -1,6 +1,7 @@
 
 <div align="center"> 
-<img src="https://github.com/Qypol342/Qypol342/assets/37497007/8d38557b-f11d-446b-9ce4-7b5edc7c555b" />
+<img src="https://github.com/Qypol342/Qypol342/assets/37497007/4a5e00fd-c860-40df-a218-6dd0d27ba970" />
+
 
 
 
