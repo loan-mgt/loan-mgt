@@ -8,6 +8,4 @@
 </div>
 
 
-<!--
-[![An image of @qypol342's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/qypol342)](https://holopin.io/@qypol342)
--->
+![my cinematic taste](https://letterboxd-badge.vercel.app/qypol)
