@@ -7,5 +7,6 @@
 
 </div>
 
-
-![my cinematic taste](https://letterboxd-badge.vercel.app/qypol)
+<a href="https://github.com/loan-mgt/letterboxd-badge">
+  <img src="https://letterboxd-badge.vercel.app/qypol" alt="my cinematic taste"/>
+</a>
